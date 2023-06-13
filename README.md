@@ -37,6 +37,7 @@ ExternalDNS allows you to keep selected zones (via `--domain-filter`) synchroniz
 * [CloudFlare](https://www.cloudflare.com/dns)
 * [RcodeZero](https://www.rcodezero.at/)
 * [DigitalOcean](https://www.digitalocean.com/products/networking)
+* [Hetzner](https://hetzner.com/)
 * [DNSimple](https://dnsimple.com/)
 * [Infoblox](https://www.infoblox.com/products/dns/)
 * [Dyn](https://dyn.com/dns/)
@@ -98,6 +99,7 @@ The following table clarifies the current status of the providers according to t
 | CloudFlare | Beta | |
 | RcodeZero | Alpha | |
 | DigitalOcean | Alpha | |
+|Hetzner | Alpha | |
 | DNSimple | Alpha | |
 | Infoblox | Alpha | @saileshgiri |
 | Dyn | Alpha | |
@@ -160,6 +162,7 @@ The following tutorials are provided:
 * [BlueCat](docs/tutorials/bluecat.md)
 * [CoreDNS](docs/tutorials/coredns.md)
 * [DigitalOcean](docs/tutorials/digitalocean.md)
+* [Hetzner](docs/tutorials/hetzner.md)
 * [DNSimple](docs/tutorials/dnsimple.md)
 * [Dyn](docs/tutorials/dyn.md)
 * [Exoscale](docs/tutorials/exoscale.md)
